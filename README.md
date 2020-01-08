@@ -14,4 +14,4 @@
 >遊戲的設計上，在越高樓層會提高難度與速度，以及增加隨機飛躍的小麻雀，增加遊戲的困難度，讓玩家可以不斷挑戰。介面的設計上，主要以可愛的角落小夥伴當作遊戲主角，並且搭配輕鬆愉快的音樂，增加遊戲整體的豐富度。另外，因為剛開始載入音樂時，會需要花一點時間等待，為了填補這等待的時間，所以增加loading的畫面。
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/1C28ph7BvZ0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1C28ph7BvZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
