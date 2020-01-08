@@ -2,7 +2,6 @@
 ![demo](Demo_img/demo.jpg)
 
 ## 展示影片
-----
 [![](http://img.youtube.com/vi/1C28ph7BvZ0/0.jpg)](http://www.youtube.com/watch?v=1C28ph7BvZ0 "")
 
 ## 遊戲介紹
